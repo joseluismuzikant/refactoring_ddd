@@ -1,10 +1,10 @@
-**Confidential. *Please do not make public this document or your solution.***
+
 
 <p>
 <img width="300" height="87" src="https://i.imgur.com/c0nCwEr.png">
 </p>
 
-# VeriTran's Code Exercise
+# DDD Code Exercise
 
 # Background
 
@@ -94,4 +94,5 @@ Steps for using the REST API
 		curl  -H "Content-Type: application/json" -X POST http://localhost:8080/transfer/francisco/pedro/10
 	
 -	For the full API see http://localhost:8080/swagger-ui.html#/simple-banking-controller
-	
+
+### Iteration 8: Expose hsitory of movements
