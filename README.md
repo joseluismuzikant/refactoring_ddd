@@ -1,7 +1,7 @@
 
 
 <p>
-<img width="300" height="87" src="https://docs.microsoft.com/es-es/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/media/ddd-oriented-microservice/domain-driven-design-microservice.png>
+<img width="300" height="87" src="http://www.methodsandtools.com/archive/ddd5.gif>
 </p>
 
 
