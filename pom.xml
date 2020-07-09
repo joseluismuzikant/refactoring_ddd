@@ -5,11 +5,11 @@
 	<modelVersion>4.0.0</modelVersion>
 
 	<groupId>com.veritran.banking</groupId>
-	<artifactId>simple-banking-system</artifactId>
+	<artifactId>simple-banking-ddd</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>jar</packaging>
 
-	<name>simple-banking-system</name>
+	<name>simple-banking-ddd</name>
 	<description>Sample application modeling a banking system</description>
 
 	<parent>

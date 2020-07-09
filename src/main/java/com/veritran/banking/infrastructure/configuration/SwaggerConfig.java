@@ -1,4 +1,4 @@
-package com.veritran.banking.config;
+package com.veritran.banking.infrastructure.configuration;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
