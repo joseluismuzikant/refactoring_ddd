@@ -1,7 +1,7 @@
 
 
 <p>
-<img width="300" height="87" src="http://www.simpleorientedarchitecture.com/wp-content/uploads/2016/09/dddCover.jpg"/>
+<img width="400" height="300" src="http://www.simpleorientedarchitecture.com/wp-content/uploads/2016/09/dddCover.jpg"/>
 </p>
 
 # DDD Code Exercise
